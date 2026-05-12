@@ -1,0 +1,5 @@
+{
+  "input_file_name": "dataset_crawler-google-places.csv",
+  "target_column_name": "title",
+  "search_type": "Exact"
+}
