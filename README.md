@@ -196,7 +196,7 @@ driver.get("https://www.ipo.gov.uk")
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -214,7 +214,7 @@ driver.get("https://www.ipo.gov.uk")
 
 ---
 
-## ��� Resources
+## Resources
 
 - [Selenium Documentation](https://www.selenium.dev/documentation/)
 - [Python Requests Library](https://requests.readthedocs.io/)
@@ -222,13 +222,13 @@ driver.get("https://www.ipo.gov.uk")
 
 ---
 
-## 📄 License
+## License
 
 This repository is provided as-is for educational and automation purposes.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 For improvements, bug fixes, or new features:
 1. Fork the repository
@@ -238,16 +238,13 @@ For improvements, bug fixes, or new features:
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions or issues, please contact the repository owner at [A-Hassan001](https://github.com/A-Hassan001)
 
 ---
 
-## ✨ Version History
-
-- **v1.0** (November 2025) - Initial repository creation with three main projects
-
----
-
-**Last Updated:** June 2026
+## Author
+- **Name:** A-Hassan001
+- **Status:** Active and Maintained
+- **Repository:** https://github.com/A-Hassan001/Procore-Scraper
